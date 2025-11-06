@@ -17,12 +17,13 @@ It provides a lightweight, interactive web interface that allows users to chat w
 
 ## 🗂️ Project Structure
 
-Chat-bot_using_hugging_face/
-│
-├── app.py # Streamlit front-end app
-├── chatbot.py # Core chatbot logic using Hugging Face API
-├── .env # Contains your Hugging Face token
-└── README.md # Documentation file
+```
+📁 Chat-bot_using_hugging_face/
+├── 📄 app.py          → Streamlit front-end app
+├── 🤖 hf_chatbot.py   → Core chatbot logic using Hugging Face API
+├── 🔐 .env            → Contains your Hugging Face token
+└── 📘 README.md       → Documentation file
+```
 
 ##💬 Files Overview
 chatbot.py:
